@@ -1,0 +1,15 @@
+# Python sanal ortamı
+venv/
+__pycache__/
+*.pyc
+
+# Büyük / indirilebilir dosyalar
+*.task
+*.npy
+data/
+
+# Editör ve sistem dosyaları
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
